@@ -1,0 +1,12 @@
+h1 {
+  font-size: 45px !important;
+  font-weight: normal;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 40px !important;
+  line-height: 1;
+  font-weight: normal;
+  color: rgb(255, 100, 100);
+}
